@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVittie obseruations gathered from our late soveraign King James in his ordinarie discourse.</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87473</idno>
+            <idno type="STC">Wing J149</idno>
+            <idno type="STC">Thomason E75_12</idno>
+            <idno type="EEBO-CITATION">99860516</idno>
+            <idno type="PROQUEST">99860516</idno>
+            <idno type="VID">155508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155508)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E75[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVittie obseruations gathered from our late soveraign King James in his ordinarie discourse.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "London Nouember 8 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:155508:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <head>VVITTIE OBSERUATIONS Gathered from our late Soveraign King <hi>JAMES</hi> in his ordinarie Diſcourſe.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>London</add> 
+                     <add>nouember .8. 1643</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p n="1">1. <seg rend="decorInit">W</seg>Ords are not the difference of good men and bad, for every man ſpeaks well; therefore how noble thing is Virtue when no man dares profeſſe any thing but it.</p>
+            <p n="2">2 I love not one will never be angry; for as he that is without ſorrow, is without gladneſſe, ſo he that is without anger is without love.</p>
+            <p n="3">3. There are degrees of men in reſpect of one ano<g ref="char:EOLhyphen"/>ther, but in reſpect of God all are equall; all are to uſe like dutie, like reverence towards him, all are like beg<g ref="char:EOLhyphen"/>gars at Gods doore.</p>
+            <p n="4">4 We are departed no further from the Church of <hi>Rome,</hi> then they from their firſt Jeſus.</p>
+            <p n="5">5 Give me the heart of a man, and out of that all other his deeds ſhall be acceptable.</p>
+            <p n="6">6 In clothes I would have a faſhion ſhould chooſe a man, and not a man a faſhion.</p>
+            <p n="7">7 It is one of the miſeries of a man, that when he
+<pb n="2" facs="tcp:155508:2"/>
+               <!-- PDF PAGE 104 -->is full of dayes and neer his end, that he ſhould love life moſt.</p>
+            <p n="8">8 It hath like operation to make women learned as to make Foxes tame, which teacheth them onely to ſteal more cunningly; the poſſibilitie is not equall, for where it doth one good, it doth twenty harm.</p>
+            <p n="9">9 Parents may forbid their children an unfit mar<g ref="char:EOLhyphen"/>riage, but they may not force their conſents to a fit.</p>
+            <p n="10">10 No Countrey can be called rich wherein there is warre; as in the Low Countreys there is much money, but the Souldiers have it in pay from the Governor, the Bores have it for victuals of the Souldiers, the Gover<g ref="char:EOLhyphen"/>nors have it again in taxes, ſo there is no center nor honour.</p>
+            <p n="11">11 No man gains by warre, but he that hath not wherewithall to live in peace.</p>
+            <p n="12">12 God accepts the intent before the deed, for if I do juſtice becauſe I would be accounted a juſt King, and not for Gods glory, not becauſe I ſtand anſwerable to God if I do otherwiſe; or if I puniſh a man rightly, but withall ſatisfie my own malice, both theſe are abo<g ref="char:EOLhyphen"/>minations. If I give almes onely for my reputation ſake, this is a wicked deed becauſe there is <hi>nullum me<g ref="char:EOLhyphen"/>dium, Whatſoever is not of faith is ſin.</hi>
+            </p>
+            <p n="13">13 No man ſhall do ill that thinks ere he under<g ref="char:EOLhyphen"/>takes what the end will be, not what his paſsion will have it to be.</p>
+            <p n="14">14 Time is the eſſence of many Laws, ſo that a King may do well at divers times both in making and abro<g ref="char:EOLhyphen"/>gating the ſame Laws.</p>
+            <p n="15">15 I deſire not to live longer then I am accounted honeſt, reaſonable, of honeſt and reaſonable men: no longer to be a King then I uſe my power to maintaine reaſon, and not to overthrow it.</p>
+            <p n="16">
+               <pb n="13" facs="tcp:155508:2"/>
+               <!-- PDF PAGE 104 -->
+16 I ſhould think it a ſigne that God leaves me not if I ſhould kill a man by chance, I would moſt unwilling<g ref="char:EOLhyphen"/>ly do that ill that lieth not in my power to mend.</p>
+            <p n="17">17 I do not think the greateſt Clerks, neereſt hea<g ref="char:EOLhyphen"/>ven, much of their knowledge is ſuperfluous: for <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> makes 400. Queſtions of Faith, and not ten of which toucheth our ſalvation to underſtand.</p>
+            <p n="18">18 Many have attempted to make glaſſe malliable, and ſo gold artificiall, but both in vain; for God doth ever croſſe the invention of man, leſt he ſhould rejoyce in his own works.</p>
+            <p n="19">19 The perſons of all men are like equall to us, and our hate or love ſhould onely go according to their vir<g ref="char:EOLhyphen"/>tues or vices, theſe bonds of kindred ſhould onely com<g ref="char:EOLhyphen"/>mand us in all civill duties, but not our judgements; and particular injuries ſhould onely make us hate that particular deed, but not the doer in generall.</p>
+            <p n="20">20 Men of high underſtandings as they do many things above the common ſtreame, ſo they fall often into into greater errors then thoſe of mean capacitie, which in all their actions will rather do nothing faul<g ref="char:EOLhyphen"/>tie then any thing extraordinarie, being of a temper better mixt then the former.</p>
+            <p n="21">21 The Devil alwayes avoids the meane, and waits upon the extremities; ſo he hath ſought to divide be<g ref="char:EOLhyphen"/>twixt Atheiſme and ſuperſtition.</p>
+            <p n="22">22 All extremities come round to one end, the ſim<g ref="char:EOLhyphen"/>ple obedience of the Papiſts, and the no obedience of the Puritane: the one breeds confuſion, the other igno<g ref="char:EOLhyphen"/>rance and ſecuritie.</p>
+            <p n="23">23 The end of the Law is to puniſh ſin when it is committed, but to keep it from being committed it cannot as the Pope who thinks by allowing fornica<g ref="char:EOLhyphen"/>tion, to avoid adulterie.</p>
+            <p n="24">
+               <pb n="4" facs="tcp:155508:3"/>
+               <!-- PDF PAGE 105 -->
+24 I will not reward any in matter of juſtice, for that is not mine, but Gods, and the peoples.</p>
+            <p n="25">25. The wiſdom of a King is known in the election of his Officers, as in places which requires a peculiar ſufficiencie, not to chuſe them whom he affects moſt, but to uſe every man according to his proper fitneſſe.</p>
+            <p n="26">26 Virtue is eaſier then vice; for the eſſentiall dif<g ref="char:EOLhyphen"/>ference betwixt vice and virtue is truth and falſhood; and it is eaſier and leſſe pains to tell truth then lie. As for vices in the ſences, cuſtome is all in all: for to one that hath lived honeſtly its as much pains to commit ſin, as for another to abſtain.</p>
+            <p n="27">27 It is likely that the people will imitate the King in good, but it is ſure they will follow him in ill.</p>
+            <p n="28">28 I have been often deceived, yet will I never leave to truſt, neither ſhall the falſhood of ſome make me think there is none honeſt.</p>
+            <p n="29">29 All that ever write of Chriſt ſaid he was an ho<g ref="char:EOLhyphen"/>neſt man, they had ſo much naturall ſight as to ſee his civill goodneſſe; but they wanted the ſupernaturall to ſee and perceive his Godhead.</p>
+            <p n="30">30 The ſame ſentence with divers relations may be both holy and divelliſh.</p>
+            <p n="31">31 I wonder not ſo much that women paint them<g ref="char:EOLhyphen"/>ſelves, as that when they are painted men can love them.</p>
+            <p n="32">32 Of all the number of men that have been ſlain in war, not the tenth part have been fighting, but flying.</p>
+            <p n="33">33 Parſons erres in their reſolutions in making the difficultie of our ſalvation, ſo lie in the hardneſſe to find Gods mercie, when indeed it conſiſts in the right ſeeking of it, for the other is ſure.</p>
+            <p n="34">34 God hath diſtributed his benefits ſo equall, that there is no countrey which excels not all other in ſome thing, ſo that as it borrowes, ſo it lendeth: ſo in men,
+<pb n="5" facs="tcp:155508:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 105 -->there is none excelleth ſo in one thing, but he had need of anothers wit in ſome other: from theſe two proceeds all traffick and ſocietie.</p>
+            <p n="35">35 The art of Phyſitians is very imperfect, for I doubt not but for every diſeaſe there is in nature ſeveral ſimples if they could find it out: So that their com<g ref="char:EOLhyphen"/>pounds do rather ſhew their ignorance, then their knowledge.</p>
+            <p n="36">36 The Devill where he cannot have the whole, ſeeks ever to get one part of the ſoul, either the will or the underſtanding which he may come eaſieſt by; as in Proteſtants the will, in Papiſts the underſtanding: a learned Papiſt, and an ignorant of two Religions.</p>
+            <p n="37">37 The Papiſts religion is like <hi>Homers</hi> Iliads of the ſiege of Troy, or <hi>Virgils</hi> Aeneides of the beginning of Rome, both of them had a foundation of truth; ſo had the Papiſt the Bible, but they have all added ſo much that the firſt truth is almoſt loſt.</p>
+            <p n="38">38 God never fails of his word but where he threatens ill to man, as in the puniſhing to Niniveh; but alwayes performs where he promiſeth good, that, or better as he promiſed to <hi>Abraham,</hi> and his ſeed everlaſting, earth<g ref="char:EOLhyphen"/>ly bleſſedneſſe, and inſtead of that gives them heavenly.</p>
+            <p n="39">39 Not onely the deliverance of the Jews till they came into the Land of Promiſe, but even their daily preſervation was miraculous: for there was never any noted plague in Jeruſalem, though it ſtood in an hot climate, which had it been would indangered the whole Nation, it being to aſſemble thither every yeer of ne<g ref="char:EOLhyphen"/>ceſſitie.</p>
+            <p n="40">40 Men are often in arguing carried by the force of words further aſunder than their queſtions was at firſt, like to Ships going out of the ſame Haven, their
+<pb n="6" facs="tcp:155508:4"/>
+               <!-- PDF PAGE 106 -->journeys end is many times whole countreys diſtant.</p>
+            <p n="41">41 Cowardiſe is the mother of crueltie, it was one<g ref="char:EOLhyphen"/>ly fear that made Tyrants put ſo many to death to ſe<g ref="char:EOLhyphen"/>cure themſelves.</p>
+            <p n="42">42 The faſhion of the Romanes of killing them<g ref="char:EOLhyphen"/>ſelves, was falſly called fortitude, for it was onely to prevent the power of Fortune when indeed Virtue lv<g ref="char:EOLhyphen"/>eth quiet out of her reach. Nor can any man be over<g ref="char:EOLhyphen"/>come but of himſelf, and ſo moſt truly were they when they fled to death for a refuge againſt death.</p>
+            <p n="43">43 Its eaſier to reclaime a man from hereſie then to convert an Atheiſt to the truth, for to beleeve is the firſt degree common to Religion, and an Atheiſt is to be brought ſo far before he come to chuſing.</p>
+            <p n="44">44 All Gods miracles are above nature, but never againſt nature, for that were to deſtroy his own work which he cannot do; but he may excell it: therefore the miracles of the Papiſts Tranſubſtantiation being againſt nature it ſelf.</p>
+            <p n="45">45 Types are the image of the mind which God al<g ref="char:EOLhyphen"/>lowed the Jews to keep them from images of the Se<g ref="char:EOLhyphen"/>nate, and to ſhew that his worſhip was to be in ſpirit and truth.</p>
+            <p n="46">46 The Chu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of Rome fell at firſt from her puri<g ref="char:EOLhyphen"/>tie into i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>firmities, then into corruption, then into er<g ref="char:EOLhyphen"/>rours, then into hereſies, and laſtly into abominations: God ſtill puniſhing ſin with ſin.</p>
+            <p n="47">47 Moſt hereſies have proceeded from mingling Philoſophy with Religion, from that and policie have all the Papiſts errours riſen, when Chriſt tels them that fleſh and blood cannot inherit the kingdom of heaven.</p>
+            <p n="48">48 We cannot conceive extremity but by faith, we cannot underſtand what God is, and of that ignorance
+<pb n="7" facs="tcp:155508:4"/>
+               <!-- PDF PAGE 106 -->comes all ſin; for ſurely if we knew him we could not offend him.</p>
+            <p n="49">49 Men as often fall out about ſmall things as great, becauſe after the firſt contradiction they maintain them<g ref="char:EOLhyphen"/>ſelves not the thing.</p>
+            <p n="50">50 Before Chriſt came it was enough for the Fathers to beleeve onely, ſince they muſt beleeve and under<g ref="char:EOLhyphen"/>ſtand both.</p>
+            <p n="51">51 Thoſe Princes which think to ſecure themſelves by blood, ſhall find that the more they kill, the more ever they have need to kill.</p>
+            <p n="52">52 The Church is to be beleeved in the interpreta<g ref="char:EOLhyphen"/>tion of Scripture but not directly againſt it; for where it differs from that, it is no longer the Church.</p>
+            <p n="53">53 There are three kinds of wiſdoms that uſe to be in Kings, a ſanctified wiſdom; a politick wiſdom, which often ſtrains it ſelf to a leſſe evil ſo to avoid a greater; and a wiſdom of falſhood: The firſt is both lawfull and neceſſarie; the ſecond is lawfull but not neceſſarie, the third is neither.</p>
+            <p n="54">54 All governments is ſevered in their conſtituti<g ref="char:EOLhyphen"/>ons, in their practiſe tend to a Monarchy, and where<g ref="char:EOLhyphen"/>ſoever the better ſort bear rule there is alwayes ſome one that reſembleth a King amongſt them. Yea though in the State of <hi>Venice</hi> the Duke is as it were a dead man, yet were it impoſſible that their Common-wealth ſhould long uphold it ſelf without him.</p>
+            <p n="55">55 The preſervation of the Bible is miraculous, that it ſhould remain pure after it had paſſed the hands of Infidels which ſought to deſtroy it, of Hereticks which ſought to pervert it to their own advantage.</p>
+            <p n="56">56 No indifferent geſture is ſo ſeldome done with<g ref="char:EOLhyphen"/>out-ſin and laughter, for its commonly raiſed upon
+<pb n="8" facs="tcp:155508:5"/>
+               <!-- PDF PAGE 107 -->things to be pitied, therefore man onely can laugh, and he onely can ſin.</p>
+            <p n="57">57 God made one part of man of earth, the baſeſt element to teach him humilitie; his ſoul proceeded from the boſome of Himſelf, to teach him goodneſſe; ſo that if he looks downward nothing is viler, if he caſt his eyes to heaven he is of a matter more excellent then Angels, the former part was a type of <hi>Adam,</hi> the ſecond of Chriſt, which gives life to that which was dead in it ſelf.</p>
+            <p n="58">58 Much money makes a Countrey poore, for it ſets a dear price upon every thing.</p>
+            <p n="59">59 At what time the Goſpel did flouriſh, all kinde of learning did ever abound; and upon the decay there<g ref="char:EOLhyphen"/>of there came alwayes a vail of darkneſſe upon the face of the earth; the reaſon is a part of Religion, but errour and ſuperſtition is ſafer by the ignorance.</p>
+            <p n="60">60 A lie of errour is a fault of credulitie, not of falſhood; but a preſumptuous lie is that which a man makes, as God made the world of nothing.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Licenſed and entred according to Order.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="8" facs="tcp:155508:6"/>
+            <!-- PDF PAGE 108 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
